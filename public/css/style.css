@@ -1,0 +1,104 @@
+header
+{
+    background-color:#ff6014;
+}
+.topheader
+{
+  margin-top: -5px;
+}
+.col a {
+    color: white;
+    padding: inherit;
+    height: auto ;
+    text-decoration: none;
+}
+
+.navbar-nav {
+    color: white;
+}
+
+.row1 h2
+{
+    text-align:center;
+    color: white;
+}
+.row2
+{
+    text-align: center;
+}
+.row2 a
+{
+    color: white;
+    text-decoration: none;
+}
+.row {
+    padding-top: 24px;
+    padding-bottom: 14px;
+    padding-left: 144px;
+    padding-right: 100px;
+}
+.container {
+    background-image: url(../image/baeatcome.jpg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 60px;
+}
+.cont
+{
+    background-color: #0c2239;
+}
+.footer-bottom {
+    background: #0c2239;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 1px;
+    position: relative;
+}
+.col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    margin-right: 210px;
+}
+.conta {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.copy-right-text p {
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+.row2 {
+    text-align: center;
+    color: white;
+}
+.text-center h6 {
+    text-align: center!important;
+    color: #ff6014;
+}
+.text-center h2 {
+    text-align: center!important;
+    color: #145397;
+}
+button, select {
+    text-transform: none;
+    background-color: orange;
+}
+.fa, .fas {
+    font-weight: 900;
+    margin-right: 10px;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 10px;
+}
